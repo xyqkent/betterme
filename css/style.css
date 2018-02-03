@@ -397,6 +397,7 @@ body {
   .title1 {
     font-size: 80px;
     line-height: 80px;
+    word-spacing: 0;
   }
 }
 .title2 {
@@ -407,8 +408,8 @@ body {
 }
 @media screen and (max-width: 479px) {
   .title2 {
-    font-size: 20px !important;
-    line-height: 10px !important;
+    font-size: 20px;
+    line-height: 10px;
   }
 }
 #subtitle {
